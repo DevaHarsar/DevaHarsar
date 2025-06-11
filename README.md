@@ -11,7 +11,7 @@ You can explore my projects on [LinkedIn](https://www.linkedin.com/in/devaharsar
 Email: devaharsar2004@gmail.com
 
 ### 📄 Know More About Me
-[View My Resume]([https://bit.ly/DevaHarsar_Resume](https://drive.google.com/file/d/11e4_1uJlXZWd7rZ5_L5cE_httJp8bfjR/view?usp=drive_link))
+[View My Resume](https://drive.google.com/file/d/11e4_1uJlXZWd7rZ5_L5cE_httJp8bfjR/view?usp=drive_link)
 
 
 
