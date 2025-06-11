@@ -2,7 +2,7 @@
 <h3 align="center">Dedicated software developer focused on building impactful web and mobile solutions</h3>
 
 # 💫 About Me:
-Hi, I’m **Deva Harsar**, a passionate software developer with a strong interest in full-stack development, system design, and building scalable web and mobile applications. I enjoy learning new technologies and solving real-world problems through clean, efficient code.
+Hi, I’m **Deva Harsar**, a passionate software developer with a strong interest in Software development, system design, and building scalable web and mobile applications. I enjoy learning new technologies and solving real-world problems through clean, efficient code.
 
 ### 👨‍💻 All of My Projects
 You can explore my projects on [LinkedIn](https://www.linkedin.com/in/devaharsar/).
