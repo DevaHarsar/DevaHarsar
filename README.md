@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm DEVA HARSAR</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Dedicated software developer focused on building impactful web and mobile solutions</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Farm Mart - Farm Product Management System<br><br>🌱 I’m currently learning MERN Stack | Next.js | Tailwind CSS | TypeScript | System Design | DSA (Java)<br><br>👨‍💻 All of my projects are available at https://www.linkedin.com/in/devaharsar/<br><br>📫 How to reach me devaharsar2004@gmail.com<br><br>📄 Know about my experiences https://bit.ly/DevaHarsar_Resume<br><br>⚡ Fun fact I can debug faster than I can cook Maggi! 😉
+Hi, I’m **Deva Harsar**, a passionate software developer with a strong interest in full-stack development, system design, and building scalable web and mobile applications. I enjoy learning new technologies and solving real-world problems through clean, efficient code.
+
+### 👨‍💻 All of My Projects
+You can explore my projects on [LinkedIn](https://www.linkedin.com/in/devaharsar/).
+
+### 📫 How to Reach Me
+Email: devaharsar2004@gmail.com
+
+### 📄 Know More About Me
+[View My Resume](https://bit.ly/DevaHarsar_Resume)
+
 
 
 ## 🌐 Socials:
